@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student from [Yuanpei College](https://yuanpei.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes artificial intelligence for science, cryptography and theoretical computer science.
+I am a third year undergraduate student from [Yuanpei College](https://yuanpei.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
+
+My research interest includes cryptography, theoretical computer science and theoretical economics (especially micro economics).
