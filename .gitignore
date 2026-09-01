@@ -12,6 +12,7 @@ Gemfile.lock
 node_modules
 package-lock.json
 
-# Ignore the vendor file and bundle for alternative installation
-vendor/
+# Ignore only Bundler's root-level vendor directory. The theme's tracked
+# Sass dependencies live under _sass/vendor and are required to build Pages.
+/vendor/
 .bundle/
